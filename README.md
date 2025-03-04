@@ -10,4 +10,4 @@
 | drip-cabv-dev-00006      | 0x3b47a888ae8b0006     | 4271568076581568518      | JB Prototype Weight Measuring          |
 | drip-cabv-dev-00007      | 0x3b47a888ae8b0007     | 4271568076581568519      | Australia loc1                         |
 | drip-cabv-dev-00008      | 0x3b47a888ae8b0008     | 4271568076581568520      | Australia loc2                         |
-| drip-cabv-dev-00009      | 0x3b47a888ae8b0009     | 4271568076581568521      | New development desk unit              |
+| drip-cabv-dev-00009      | 0x3b47a888ae8b0009     | 4271568076581568521      | 3m #2 in JB PSH right now              |
