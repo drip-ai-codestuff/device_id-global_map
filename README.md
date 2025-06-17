@@ -10,6 +10,6 @@
 | drip-cabv-dev-00006      | 0x3b47a888ae8b0006     | 4271568076581568518      | 3m #1 in AUS bucket weights and rotate |
 | drip-cabv-dev-00007      | 0x3b47a888ae8b0007     | 4271568076581568519      | Australia bucket and rotater           |
 | drip-cabv-dev-00008      | 0x3b47a888ae8b0008     | 4271568076581568520      | Australia 1m main                      |
-| drip-cabv-dev-00009      | 0x3b47a888ae8b0009     | 4271568076581568521      | 3m #2 in JB PSH right now              |
+| drip-cabv-dev-00009      | 0x3b47a888ae8b0009     | 4271568076581568521      | JB Factory Test Stand                  |
 | drip-cabv-dev-00010      | 0x3b47a888ae8b000A     | 4271568076581568522      | 3m #1 in Australia main weights (x10)  |
 | drip-cabv-dev-00011      | 0x3b47a888ae8b000B     | 4271568076581568523      | Another desk development unit          |
